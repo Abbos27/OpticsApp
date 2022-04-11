@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Abbos/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_call_selector.xml" value="0.186" />
+        <entry key="..\:/Users/Abbos/AndroidStudioProjects/Optika/app/src/main/res/layout/fragment_add_client.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abbos/AndroidStudioProjects/Optika/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abbos/AndroidStudioProjects/Optika/app/src/main/res/layout/fragment_settings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abbos/AndroidStudioProjects/Optika/app/src/main/res/layout/item_client.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Abbos/AndroidStudioProjects/Optika/app/src/main/res/menu/drawer_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_call_selector.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_delete.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_delete_selector.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_edit.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_edit_item_selector.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_edit_selector.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_female_checked.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_female_not_checked.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_female_selector.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_male_not_checked.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/btn_male_selector.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/days_left_custom.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/edit_test.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/et_custom.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/et_custom_selector.xml" value="0.1695" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/et_note_custom.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_add.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_date.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_delete.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_delete_item.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_edit.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_filter_list.xml" value="0.1695" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_person.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_phone.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_search.xml" value="0.1695" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/ic_timer.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/tv_checked.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/tv_not_checked.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/tv_selected.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/drawable/tv_selector.xml" value="0.195" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/layout/activity_main.xml" value="0.19293478260869565" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/layout/fragment_add_client.xml" value="0.176" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/layout/fragment_home.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/layout/fragment_notifications.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/layout/fragment_settings.xml" value="0.24682971014492755" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/layout/item_client.xml" value="0.264" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/layout/nav_header.xml" value="0.1111111111111111" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/menu/drawer_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/menu/menu_add_client.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Win10_Game_OS/AndroidStudioProjects/Optika/app/src/main/res/menu/menu_notifications.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
